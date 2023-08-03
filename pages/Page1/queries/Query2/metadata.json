@@ -2,7 +2,7 @@
   "pluginType": "DB",
   "pluginId": "amazons3-plugin",
   "unpublishedAction": {
-    "name": "Query1",
+    "name": "Query2",
     "datasource": {
       "name": "s3",
       "pluginId": "amazons3-plugin",
@@ -93,7 +93,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "Page1_Query1",
+  "id": "Page1_Query2",
   "deleted": false,
-  "gitSyncId": "64c0d4a73323cd2519b66d4b_64cb4db714cb3177e390cb8d"
+  "gitSyncId": "64c0d4a73323cd2519b66d4b_64cbb1aff331634b9c79c3d3"
 }
