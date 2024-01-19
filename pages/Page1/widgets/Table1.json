@@ -141,6 +141,7 @@
     "rightColumn": 58,
     "textSize": "0.875rem",
     "widgetId": "iggv40509u",
+    "enableServerSideFiltering": false,
     "minWidth": 450,
     "tableData": "{{Query3.data}}",
     "label": "Data",
